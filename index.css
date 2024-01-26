@@ -1,0 +1,13 @@
+h1{
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+}
+button{
+    background-color: aqua;
+    color:red;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
